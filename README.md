@@ -21,8 +21,8 @@
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://lemuelfernandes.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lemuelfernandes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://lemueldev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lemuel-fernandes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ent_hral.diaries)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/lemuel-fernandes)
 
@@ -42,28 +42,23 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Backend & Infra  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
 
 ### Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PlanetScale](https://img.shields.io/badge/PlanetScale-000?style=flat&logo=planetscale)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 
 ### AI/ML  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras)
 
 ---
 
@@ -73,7 +68,6 @@
 |--------|-------------|
 | [🔬 LIMS](https://github.com/lemuel-fernandes/LIMS) | A Laboratory Information Management System to manage academic lab workflows. |
 | [🌐 Portfolio Website](https://github.com/lemuel-fernandes/portfolio_website) | My personal portfolio showcasing my journey, projects, and design thinking. |
-| [💼 JPM Forage Project](https://github.com/lemuel-fernandes/forage-midas) | Simulated software engineering internship project under JPMorgan's Forage Program. |
 
 ---
 
@@ -97,6 +91,6 @@
 ## ☕ Support
 
 If you like what I do, consider buying me a coffee or just drop a message to collaborate or chat tech!
-
+👉 [https://coff.ee/lemuelfernandes](https://coff.ee/lemuelfernandes)
 ---
 
