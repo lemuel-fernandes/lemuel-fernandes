@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋 I'm Lemuel Fernandes</h1>
+<h1>Hey 👋 I'm Lemuel Fernandes</h1>
 
-<p align="center">
+<p">
 🎓 B.Tech CSE (AI/ML) @ Christ University  
 💻 Full-Stack Developer | UI/UX Designer | Ethical Hacking Enthusiast  
 🎤 Event Manager @ Magnovite, TechUtsav & Bengaluru Comic Con  
