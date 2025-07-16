@@ -91,6 +91,7 @@
 ## ☕ Support
 
 If you like what I do, consider buying me a coffee or just drop a message to collaborate or chat tech!
-👉 [https://coff.ee/lemuelfernandes](https://coff.ee/lemuelfernandes)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/lemuelfernandes)
+
 ---
 
